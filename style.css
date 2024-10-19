@@ -1,35 +1,21 @@
-* {
-    background-color: lightblue;
-}
-
-.intro {
-    color: green;
-    font-style: italic;
+button {
+    font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 20px;
+    box-sizing: border-box;
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
 }
-
-.ul {
-    
-    color: white;
-    font-size: 20px;
-    font-weight: 500;
-    font-family: "sans-serif", serif;
+.lasagna {
+    background-color: green;
 }
-
-.ol {
-    color: red;
-    font-size: 20px;
-
+.burger {
+    background-color: white;
 }
-
-.one {
-    color: green;
-}
-
-.two {
-    color: white;
-}
-
-.three {
-    color: red;
+.pizza {
+    background-color: red;
 }
